@@ -1,0 +1,59 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is React by Anubhav",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "watch-test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsexp2302/Inception.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react",
+    "anubhav"
+  ],
+  "author": "Anubhav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsexp2302/Inception/issues"
+  },
+  "homepage": "https://github.com/itsexp2302/Inception#readme",
+  "devDependencies": {
+    "@babel/core": "^7.24.5",
+    "@babel/preset-env": "^7.24.5",
+    "@eslint/js": "^9.0.0",
+    "@testing-library/jest-dom": "^6.4.2",
+    "@testing-library/react": "^15.0.5",
+    "babel-jest": "^29.7.0",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.1",
+    "globals": "^15.0.0",
+    "jest": "^29.7.0",
+    "jest-environment-jsdom": "^29.7.0",
+    "parcel": "^2.12.0",
+    "postcss": "^8.4.38",
+    "process": "^0.11.10",
+    "tailwindcss": "^3.4.3"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-decorators": "^7.24.1",
+    "@babel/preset-react": "^7.24.1",
+    "@parcel/transformer-react-refresh-wrap": "^2.12.0",
+    "@reduxjs/toolkit": "^2.2.3",
+    "prettier": "^3.2.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-redux": "^9.1.1",
+    "react-router-dom": "^6.22.3",
+    "redux": "^5.0.1"
+  },
+  "browserslist": [
+    "Last 2 versions"
+  ]
+}

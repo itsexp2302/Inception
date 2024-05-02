@@ -1,4 +1,4 @@
-# PANGS - Your Food ordering Applixation
+# PANGS - Your Food ordering Application
   - This is a clone of food ordering application using live API Data.
 
 

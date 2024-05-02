@@ -1,19 +1,5 @@
-/**
- * Header
- *  - Logo
- *  - Nav Items
- * Body
- *  - Search
- *  - Resturant Container 
- *    - Resturant Card
- *      - Image
- *      - Name of Res, Start Rating, cuisine, delivery time
- * Footer
- *  - Copyright
- *  - Links
- *  - Address
- *  - Contact
- */
+# PANGS - Your Food ordering Applixation
+  - This is a clone of food ordering application using live API Data.
 
 
 
